@@ -261,3 +261,8 @@ textarea {
   }
 }
 
+#myCanvas {
+  position: absolute;
+  left: 20px;
+  border:1px solid #000000;
+}
